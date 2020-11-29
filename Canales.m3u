@@ -1,0 +1,190 @@
+#EXTM3U
+#EXTINF:-1 , Canal 29
+
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1 , Canal 2
+
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w1328551814.m3u8
+
+
+#EXTINF:-1 , Canal 11
+
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w917101096.m3u8
+
+
+#EXTINF:-1 , Canal 9
+
+https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY5An5f9A3S34H5azrkodQ94)/dm/3/x7gy059/d/live-4.m3u8
+
+
+
+#EXTINF:-1 , Canal 7
+
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA2NzU5OTY4LCJzZXNzaW9uIjoiMTkwLjE2Ni4xOTYuMTk2Iiwid2hpdGVsaXN0IjpbIjE5MC4xNjYuMTk2LjE5NiJdfSwic2lnbmF0dXJlIjoiMzhkZmE3NDNmYjYyMTk0ZDFkODMyNmFjMzRmMzQ4YTRiYzQ1MDc5NiJ9
+
+
+
+
+#EXTINF:-1 , Canal 4
+
+https://playback2.akamaized.net/streams/27035275_8371710_fde0baee28193584815a6c51d4aaae17_1/exp=1606760129~acl=%2f*~data=hdntl~hmac=05740c5cb5a7ed165227af8dd5ca6029dd14b7c97c74bf336ec58827f396ad84/media/27035275_8371710_fde0baee28193584815a6c51d4aaae17_1@2128000p.m3u8?dw=14400&ts=1606672800
+
+
+#EXTINF:-1 , Canal 25
+
+https://ss5.domint.net:3050/c25_str/canal25/chunklist_w405574113.m3u8
+
+
+
+
+#EXTINF:-1 , Canal 45
+
+https://ss4.domint.net:3008/tra_str/canal45/chunklist_w636188298.m3u8
+
+
+#EXTINF:-1 , Canal 16
+
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w172605221.m3u8
+
+
+
+#EXTINF:-1 , Canal 55
+
+https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1885755336.m3u8
+
+
+#EXTINF:-1 , Canal 57
+
+http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 , Canal 5
+
+https://playback.akamaized.net/streams/28126860_8825282_lsiqm66ybmf35y4axel_1/media/28126860_8825282_lsiqm66ybmf35y4axel_1@3628000p.m3u8?dw=14400&ts=1606672800&hdnts=exp=1606847269~acl=/streams/28126860_8825282_lsiqm66ybmf35y4axel_1/media*~hmac=be6632bd7d5a9b7b060b607e4e20e4cd4027edf65a6a15065a7967b7c963cda4
+
+
+
+#EXTINF:-1 , Canal 15
+
+https://playback.akamaized.net/streams/27456795_8268514_lsid9ilkpxpyj9xostt_1/media/27456795_8268514_lsid9ilkpxpyj9xostt_1@628000p.m3u8?dw=14400&ts=1606672800&hdnts=exp=1606847543~acl=/streams/27456795_8268514_lsid9ilkpxpyj9xostt_1/media*~hmac=1aa41c528c00b290bf630966096b0c96e7004faceee4a5c8f83da7a5bdff4ef3
+
+
+#EXTINF:-1 , Canal 13
+
+https://playback.akamaized.net/streams/28126860_8555433_lsi3qngtgicpa933tb0_1/media/28126860_8555433_lsi3qngtgicpa933tb0_1@1396000p.m3u8?dw=14400&ts=1606672800&hdnts=exp=1606847726~acl=/streams/28126860_8555433_lsi3qngtgicpa933tb0_1/media*~hmac=b249ffff3e77f243ef5217a41756964bdc76febd6d4feb3c12bba99865db8bb0
+
+
+#EXTINF:-1 , Canal 37
+
+https://dcunilive14-lh.akamaihd.net/i/dclive_1@167228/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1606761449~acl=%2fi%2fdclive_1%40167228*~data=hdntl~hmac=d8d5b405604e837f7176922d6ca34fc505e5127435f9e0fe5e3602bd8b5668a2
+
+
+#EXTINF:-1 ,Canal Amé 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
+#EXTINF:-1 ,Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
+
+#EXTINF:-1 ,Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+
+#EXTINF:-1 ,Comunion TV
+http://50.30.37.36:1935/live/stream/playlist.m3u8
+
+#EXTINF:-1 ,ESTV
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+
+#EXTINF:-1 ,Fuego TV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+
+#EXTINF:-1 ,Microvision 10
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1 ,ONDA TV CANAL 10
+http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+
+#EXTINF:-1 ,Ready TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 ,Romana TV Canal 42
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 ,TeleBendicion
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+
+#EXTINF:-1 ,Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+#EXTINF:-1 ,Telefuturo Canal 23
+http://ss8.domint.net:2118/tf_str/futu/master.m3u8
+
+#EXTINF:-1 ,Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:-1 ,Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:-1 t,TV Montaña Canal 10
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+
+
+#EXTINF:-1 , Canal Canal Fox
+
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CvkEBQ7BwEeQ-NIeYbw21pVmmOa44qHKo1qZIOIiqGDUOP1FTvjHMmifz31a3ZE6Ter4nZrN3Gn8-9pdK1dntbXZEFBDyqkqiKk0YUUScB1phT8ep1cIPPtvu_tkuUbO7d23AA3yVWaHKjJh_00bh1BtC3CZM0OKiM1bfTe64LdprlikF2g_j3iYv_BdmZ5oWhwlf3-bQRcD0GSIQdCBPrdBOPHb-8zJA8nkiJSx1w9ZDmlULZervkwLkmRvSmExANlKaYWewhUgZeNz04VqEDRO4sFe2q4cWzC4nuJJiDlvLcybXeiE7PxHDI7nM6v2r2h0t2ilBYqqCG2EHIY4gcWT1ep0Pj9irjg5Ru33OcRaYPORIEWf5Q5-2JQPuo5tLJl_HW9Beb0UIkoUkLEmhF3NI-0vUZHjCznEvu633qGCLFs0nj-LDVcGZB9QAqzVHcyuThCidE43PT3uMccrXqGYA8h4r3Pzu4lQzqVmmZbgdqP45ovbleJliJQcv7xq-IALAiEBJ-So2tRR1nks6KCQ6j_tro4CWv6qmy5QAa827sZxqYugj8SANikMWX70_gwMqPT7uszvfhoRmeUdcw3ssdLRH24EYfC09p2lEMaX7CWN52u0Vj54cAm65QwN2syBMmm9REnq1m9UP5KnL9MIBCxTt3zlewYTzirSbeFqzxe7x34zN0HgaBW8pJrwsM6MJWbFrWZ2oTcZykVtQBoIkmYK2K2TYY5q-JAbW2WUB2tBHc6kEQf00Fk5Dm5XoFK2HvU_jTwUxjrpPUqLL3gBRsmGQ_ZWGCwGgcFsD405MJz1_zT5l1V51YArVx4nRqoCvs7Nx8XAw6yuEhDA1Irw8HgmuvdheFS6OZk0GgzuarmsedadaRcUBpQ.m3u8
+
+
+#EXTINF:-1 , Fox Accion
+
+http://89.105.194.59:25461/live/5spk$QW/5spk$QW/19.m3u8
+
+#EXTINF:-1 , Fox Family Series
+
+http://89.105.194.59:25461/live/2spt$!87/2spt$!87/18.m3u8
+
+#EXTINF:-1 , HBO
+
+http://89.105.194.59:25461/live/1spT1!!g/1spT1!!g/24.m3u8
+
+#EXTINF:-1 , HBO 2
+
+http://89.105.194.59:25461/live/1spT1!!g/1spT1!!g/22.m3u8
+
+
+#EXTINF:-1 , TNT
+
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CvIEMGYzmv3cocb1IpYGb2E8_rKV-Qs3JugnRUBy2TONiK_AedkOjB-iyMLXcrrOGEhn5hJvgjz9azLzijELIxi8w_dotKOnkh4XIWkc_dLfF7dqrG30RQaUDf9v80CIHXj7P7cbjlIo3sT9Zlwr-TbIE4q2Kk6qKvaqhI7_VwgKDWDyMdVTzawU7jmj8znFvsw65d3mDmFpp9ljbaQdmNqxExgX8eQFFJWivW80Cu3H6TO3glD6QcGSJ9yPrllTHkGghQX22Tk0DtRyGNn7xzbAisg6SIRMcp4QZeFPTAqxlt_EQKgOgZQ-RY2mbyrSUlInR0hBvo5DacAY8pxnY7_BbRkO92WVo66Vo1OybMm7xDQuU4kAURdvLxlvjq2yIPnkcsQKjggb-3_pvmnb68z-T_9UHeUDLc7oulZ7Q_0DN7hk54yEzABhLxN9-4qP3jB7EvA3opdd_Gtoe-hkxKS916FbpUWHWz5XxpQvibjBedY8M9AsDIr1ReU5Uht4m1cCxnzPnUm8GJNrmDuGvYKJrnf7HhIGhe4fXh8dNMqLJcQUjw_HGsl8yTS6VWvSnyuWbxI3yfvslwuuM-mGop25DKpMgXqOQCPNjz_t9pjPW_l4O2SmDLC4yvOJJ1n6r2o0kY55rjV41gvbXxrG3Ei74Y0PvR18AAdbXli3fHaVZvgdhKVQ1n6BlwXB_EMzmGn-9T61vugR_W2EQD1e-FVVzCHRf-ZlDw_4bTmiPhflWPS7YHIirkW5RwbPP2jFKKGsmm_Nw3EPVnyFyfv8r1h-wqKqvNP3Bda8DwHcC_osQfklaWQHrz_xWETO_YC_nv-Rvc8SEAQmapiYQCphmzcMCDfWuaYaDGNi6TimwatSJsJFuw.m3u8
+
+#EXTINF:-1 , Telemundo
+
+http://89.105.194.59:25461/live/mx4W!!B/mx4W!!B/49.m3u8
+
+
+#EXTINF:-1 , ESPN
+
+https://e10.habrox.xyz/ingestnb4s/espn_sur/d.m3u8
+
+
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
+#EXTINF:-1 , Canal 15
